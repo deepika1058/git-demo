@@ -1,6 +1,5 @@
 #Demo git repository
 This is the first repository
 #second
-Git is a version control tool
-#third 
-Git and GitHub are completely different things
+Git is a version control tool and github is a collaboration tool.
+
